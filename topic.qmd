@@ -1,6 +1,7 @@
 # Topic
 
 Pick some subset of the information covered in your annual review article that you are interested in exploring in more detail. 
+How to assess the fairies of a production based Decision model.
 
 Identify the scope of your user guide - what will you cover? Specific software packages? When to use or not to use a specific technique?
-
+It will focuse on how to analyse a confusion matrix and who to implement Fairlearn to better understand where models lack fairness.
