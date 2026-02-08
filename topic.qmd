@@ -1,7 +1,18 @@
 # Topic
 
 Pick some subset of the information covered in your annual review article that you are interested in exploring in more detail. 
-How to assess the fairies of a production based Decision model.
+
+> How to assess the fairies of a production based Decision model.
 
 Identify the scope of your user guide - what will you cover? Specific software packages? When to use or not to use a specific technique?
-It will focuse on how to analyse a confusion matrix and who to implement Fairlearn to better understand where models lack fairness.
+
+> It will focuse on how to analyse a confusion matrix and who to implement Fairlearn to better understand where models lack fairness.
+
+
+
+::: callout-note
+# Comments/suggestions
+
+I need you to elaborate quite a bit more before I assess how well this topic will work. Define fairness. Spell it correctly so that I'm not wondering how fairies have anything to do with statistics :-p. Give me enough information here so that I can help you determine whether this topic will work -- the goal of this check in is to make sure you're set up for success, not to just give me something extra to grade. 
+
+:::
