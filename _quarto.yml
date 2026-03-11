@@ -13,7 +13,7 @@ book:
   page-footer:
     left: "Copyright 2025, Author Name"
   chapters:
-    - guide.qmd
+    - index.qmd
     - references.qmd
   appendices:
     - topic.qmd
